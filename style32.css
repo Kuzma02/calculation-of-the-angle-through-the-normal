@@ -1,0 +1,23 @@
+body{
+
+margin:0px;
+overflow:hidden;
+}
+#ugao{
+
+font-size:60px;
+color:blue;
+position:absolute;
+top:80px;
+left:80px;
+}
+span{
+width:10px;
+height:10px;
+border-radius:50%;
+display: block;
+border: 1px solid blue;
+position:absolute;
+top:150px;
+left:150px;
+}
